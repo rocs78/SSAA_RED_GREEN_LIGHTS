@@ -1,1 +1,1 @@
-# SSAA_REG_GREEN_LIGHTS
+# SSAA ACT JMK Range Red and Green Light Controller
